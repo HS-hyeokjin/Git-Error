@@ -2,7 +2,7 @@ package patment;
 
 public class controller {
     public static void main(String[] args) {
+        System.out.println("1커밋");
 
-        System.out.println("2커밋");
     }
 }
