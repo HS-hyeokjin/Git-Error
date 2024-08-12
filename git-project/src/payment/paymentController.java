@@ -4,6 +4,7 @@ public class paymentController {
         System.out.println("결제 컨트롤러");
         System.out.println("결제 서비스");
         System.out.println("리포지토리 서비스");
+        System.out.println("gdgd");
     }
 
 }
